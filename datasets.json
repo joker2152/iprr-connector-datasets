@@ -1,0 +1,24 @@
+[
+  {
+    "name": "so101_connector_assembly_dual_v1",
+    "role": "training",
+    "episodes": 98,
+    "frames": 31342,
+    "fps": 15,
+    "files": 15,
+    "uncompressed_bytes": 1154681739,
+    "asset_name": "so101_connector_assembly_dual_v1.zip",
+    "asset_bytes": 1154685433
+  },
+  {
+    "name": "so101_connector_random96_v2",
+    "role": "test",
+    "episodes": 96,
+    "frames": 30856,
+    "fps": 15,
+    "files": 13,
+    "uncompressed_bytes": 965728227,
+    "asset_name": "so101_connector_random96_v2.zip",
+    "asset_bytes": 965731263
+  }
+]
